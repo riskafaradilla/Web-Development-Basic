@@ -47,6 +47,7 @@ Github adalah sebuah website dan layanan berbasis cloud bagi para developer untu
 
 ### 3. Tag HTML
 Tag adalah sebuah penanda awalan dan akhiran dari sebuah elemen di HTML. Tag dibuat dengan kurung siku (<...>), lalu didalamnya berisi nama tag.
+
 ![tag](https://user-images.githubusercontent.com/114325558/193436962-cbfeb703-7940-489d-a323-6b17785e3a67.JPG)
   
 ### 4. HTML Attribute
@@ -149,37 +150,37 @@ Disemua bahasa pemrograman, veriable adalah container/tempat untuk menyimpan seb
 - Jenis-Jenis Conditional
   - IF Statement
   
-  ![if](https://user-images.githubusercontent.com/114325558/193437222-37dcd871-f9b5-41e5-9dcd-1ae928a78f1d.JPG)
+    ![if](https://user-images.githubusercontent.com/114325558/193437222-37dcd871-f9b5-41e5-9dcd-1ae928a78f1d.JPG)
   
   - IF-ELSE
   
-  ![if-else](https://user-images.githubusercontent.com/114325558/193437230-308184d5-5c4f-4150-92a1-a23e40839601.png)
+    ![if-else](https://user-images.githubusercontent.com/114325558/193437230-308184d5-5c4f-4150-92a1-a23e40839601.png)
   
   - IF-ELSE-IF
   
-  ![if-else-if](https://user-images.githubusercontent.com/114325558/193437235-871c8402-05b0-49ad-acd0-ef9c21567106.png)
+    ![if-else-if](https://user-images.githubusercontent.com/114325558/193437235-871c8402-05b0-49ad-acd0-ef9c21567106.png)
   
   - Switch Case Conditional
   
-  ![switch](https://user-images.githubusercontent.com/114325558/193437265-e6976834-ea68-4600-a7dd-666a9a2cb26a.png)
+   ![switch](https://user-images.githubusercontent.com/114325558/193437265-e6976834-ea68-4600-a7dd-666a9a2cb26a.png)
   
 ### 2. Looping
   - Apa itu Looping? Looping adalah statement yang mengulang sebuah instruksi hingga kondisi terpenuhi atau jika kondisi stop/berhenti tercapai.
   - Jenis Looping
     - For Loop
     
-    ![for loop](https://user-images.githubusercontent.com/114325558/193437286-1527d8a1-2114-4014-95dd-16976a13f615.JPG)
+      ![for loop](https://user-images.githubusercontent.com/114325558/193437286-1527d8a1-2114-4014-95dd-16976a13f615.JPG)
     
-      - Inisialisasi: Sebagai inisialisasi awal dari mana mulainya sebuah pengulangan. Kita memberikan nilai awal/default pada parameter ini.
-      - Condition: For loop akan terus berjalan selama kondisi ini terpenuhi. Selama kondisi bernilai TRUE.
-      - Post-expression (Increment/Decrement): Iterasi statement yang digunakan untuk mengupdate variabel yang menjadi kontrol pada pengulangan.
+        - Inisialisasi: Sebagai inisialisasi awal dari mana mulainya sebuah pengulangan. Kita memberikan nilai awal/default pada parameter ini.
+        - Condition: For loop akan terus berjalan selama kondisi ini terpenuhi. Selama kondisi bernilai TRUE.
+        - Post-expression (Increment/Decrement): Iterasi statement yang digunakan untuk mengupdate variabel yang menjadi kontrol pada pengulangan.
      
     - While Loop
     
-    ![while loop](https://user-images.githubusercontent.com/114325558/193437298-e5adc56c-fe8b-4292-b9f4-b19a5f453a40.JPG)
+      ![while loop](https://user-images.githubusercontent.com/114325558/193437298-e5adc56c-fe8b-4292-b9f4-b19a5f453a40.JPG)
     
     - Do While Loop
     
-    ![do while](https://user-images.githubusercontent.com/114325558/193437301-cfea6080-e93f-4a04-96ac-1d7c788b21ae.JPG)
+      ![do while](https://user-images.githubusercontent.com/114325558/193437301-cfea6080-e93f-4a04-96ac-1d7c788b21ae.JPG)
 
 
