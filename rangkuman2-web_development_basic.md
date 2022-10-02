@@ -97,7 +97,7 @@ Tipe data non-primitif dapat menyimpan lebih dari satu nilai pada satu waktu dan
 
     - mengakses value tertentu pada objek
     
-      <img width="355" alt="objek1" src="https://user-images.githubusercontent.com/114325558/193449140-eccdc467-602b-409d-a1f1-c42b51930370.png">
+      <img width="241" alt="objek1" src="https://user-images.githubusercontent.com/114325558/193449398-536bd82d-5c20-442d-a320-977d0f3d1bf2.png">
       
     - mengubah nilai key pada objek
 
