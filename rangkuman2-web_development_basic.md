@@ -1,5 +1,5 @@
 ## Rangkuman Minggu Ke-2
-### Day -1
+## Day -1
 ### Javascript : "Scope & Function" 
 ### A. Scope
 ### 1. Pengertian Scope
@@ -53,17 +53,22 @@ Arrow function adalah cara lain menuliskan function. Ini adalah fitur terbaru ya
 
 <img width="359" alt="arrow function" src="https://user-images.githubusercontent.com/114325558/193439702-4110a95c-fae1-49d6-89d3-7c4c07ef7ef5.png">
 
-### c. Short Syntax Function
-
-
-
-### Day -2
+## Day -2
 ### Javascript "Data Type Built in Prototype & Method" 
-### Data Type
-### String
-### Number
-### Math
-### Primitive & Non Primitive
+### Pengertian Data Type
+Tipe data adalah jenis data yang dapat disimpan, dimanipulasi, dan digunakan untuk memberi tahu komputer bagaimana menfasirkan nilai atau datanya.
+Tipe data menentukan jenis data yang dimiliki variabel dan tipe operasi, seperti operasi matematika, logika dan sebagainya.
+
+- String
+String pada Javascript adalah tipe data yang berhubungan dengan karakter. 
+
+- Number
+Number adalah tipe data yang mewakili seluruh tipe data angka, seperti integer (bilangan bulat) dan floating point atau desimal. Contoh:
+
+- Primitive & Non Primitive
+
+### Pengertian Method
+- Math
 
 ### Day -3
 ### DOM "Memanipulasi Tampilan Web Menggunakan Bahasa Pemrograman"
