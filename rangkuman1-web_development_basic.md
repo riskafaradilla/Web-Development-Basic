@@ -94,7 +94,7 @@ Algoritma adalah deskripsi berupa step-step yang dibutuhkan untuk menyelesaikan 
 ### c. Pseudocode
 Pseudocode adalah menuliskan algoritma dengan umumnya bahasa inggris sebelum kita implementasikan ke bahasa pemrograman tertentu. 
 
-### Intro to Javascript
+### B. Intro to Javascript
 ### 1. Pengertian Javascript
 Javascript adalah bahasa pemrograman yang sangat powerful yang digunakan untuk logic pada sebuah website. Javascript juga dapat membuat website menjadi interaktif dan dinamis.
 
