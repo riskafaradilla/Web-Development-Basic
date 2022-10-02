@@ -134,17 +134,17 @@ Github adalah sebuah website dan layanan berbasis cloud bagi para developer untu
  ### 3. Variabel
  Disemua bahasa pemrograman, veriable adalah container/tempat untuk menyimpan sebuah nilai.
  - 3 hal yang dapat dilakukan pada variabel :
-  - membuat variabel dengan nama yang jelas dan menggambarkan tentang data tersebut.
-  - menyimpan dan mengupdate informasi/data yang disimpan.
-  - mendapatkan/menampilkan data yang tersimpan.
+   - membuat variabel dengan nama yang jelas dan menggambarkan tentang data tersebut.
+   - menyimpan dan mengupdate informasi/data yang disimpan.
+   - mendapatkan/menampilkan data yang tersimpan.
  - Ada 3 cara mendefinisikan sebuah variabel 
-  - var
-  - let
-  - const
+   - var
+   - let
+   - const
  - Aturan penamaan variabel :
-  - Harus mendeskripsikan tentang data yang disimpan.
-  - tidak bisa menggunakan number pada awal nama variabel.
-  - Gunakan camelcase untuk penamaan yang lebih dari 1 kata. contoh:myName, myAge.
+   - Harus mendeskripsikan tentang data yang disimpan.
+   - tidak bisa menggunakan number pada awal nama variabel.
+   - Gunakan camelcase untuk penamaan yang lebih dari 1 kata. contoh:myName, myAge.
   
  &nbsp;
  
