@@ -1,7 +1,7 @@
 ## Rangkuman Materi Minggu Ke-1
-### Day -1
-### Unix Command Line dan Git & Github
-### A. Unix Command Line
+ ### Day -1
+ ### Unix Command Line dan Git & Github
+ ### A. Unix Command Line
 - command Line Interface yitu jenis shell yang berbasis teks.
 - Shell yaitu program yang digunakan untuk berkomunikasi atau memerintah sistem.
 - Syntax Command Line :
