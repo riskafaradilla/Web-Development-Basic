@@ -123,7 +123,7 @@ Tipe data non-primitif dapat menyimpan lebih dari satu nilai pada satu waktu dan
       <img width="269" alt="array3" src="https://user-images.githubusercontent.com/114325558/193449545-b774088e-c0a0-4246-adb4-64148a5bfaa5.png">
 
 ### Pengertian Method
-Method adalah serangkaian instruksi yang berkaitan dengan sebuah object.
+Method adalah serangkaian instruksi yang berkaitan dengan sebuah object. Pada materi ini banyak membahas method pada aritmatika.
 - ### Math
   - Math.abs(), fungsinya yaitu mengembalikan nilai absolut dari sebuah angka.
     
