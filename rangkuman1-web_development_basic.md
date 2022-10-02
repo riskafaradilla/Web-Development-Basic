@@ -169,7 +169,7 @@ Github adalah sebuah website dan layanan berbasis cloud bagi para developer untu
   
   - Switch Case Conditional
   
-   ![switch](https://user-images.githubusercontent.com/114325558/193437265-e6976834-ea68-4600-a7dd-666a9a2cb26a.png)
+    ![switch](https://user-images.githubusercontent.com/114325558/193437265-e6976834-ea68-4600-a7dd-666a9a2cb26a.png)
   
  ### 2. Looping
   - Apa itu Looping? Looping adalah statement yang mengulang sebuah instruksi hingga kondisi terpenuhi atau jika kondisi stop/berhenti tercapai.
