@@ -62,27 +62,27 @@ Tipe data menentukan jenis data yang dimiliki variabel dan tipe operasi, seperti
 ### Macam-Macam Data Type
 - primitive 
 Data primitif hanya dapat menyimpan satu nilai pada satu waktu dan tidak dapat diubah menggunakan cara yang sama seperti tipe data non-primitif. Tipe data Primitif akan dianggap sama jika nilainya sama.
-  - String
+  - ### String
     String pada Javascript adalah tipe data yang berhubungan dengan karakter. 
     
     <img width="334" alt="string" src="https://user-images.githubusercontent.com/114325558/193448485-5771067d-b4ba-4707-8785-de7efe96ce9b.png">
     
-  - Number
+  - ### Number
     Number adalah tipe data yang mewakili seluruh tipe data angka, seperti integer (bilangan bulat) dan floating point atau desimal. Contoh:
     
     <img width="241" alt="number" src="https://user-images.githubusercontent.com/114325558/193448500-c487d42c-18ca-43f0-8b95-902ef3e661da.png">
     
-  - Boolean
+  - ### Boolean
     Boolean adalah tipe data yang hanya memiliki dua nilai, true dan false.
     
     <img width="206" alt="boolean" src="https://user-images.githubusercontent.com/114325558/193448505-e537ee78-f570-4a7a-9f59-b578c4ff48c8.png">
     
-  - Undefined
+  - ### Undefined
     Undefined adalah nilai yang diberikan ketika variabel dideklarasikan tanpa inisialisasi atau tidak diberi nilai.
     
     <img width="260" alt="undefined" src="https://user-images.githubusercontent.com/114325558/193448511-25b90337-7651-4c42-8b15-da314e2e05a8.png">
     
-  - Null
+  - ### Null
     Null dapat digunakan untuk mewakili ketidakhadiran yang disengaja dari nilai objek.
     
     <img width="257" alt="null" src="https://user-images.githubusercontent.com/114325558/193448721-bb5b0223-185f-4f04-8ac4-6eb6a6ffd082.png">
