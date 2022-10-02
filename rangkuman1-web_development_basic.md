@@ -43,16 +43,20 @@ Github adalah sebuah website dan layanan berbasis cloud bagi para developer untu
   - HTML bukanlah sebuah bahasa pemrograman, artinya HTML tidak bisa dinamis mengolah data.
   
 ### 2. Kerangka HTML
-  
+![kerangka-html](https://user-images.githubusercontent.com/114325558/193437112-c8e91ac8-29c8-4b2b-a072-e8403e510d87.JPG)
+
 ### 3. Tag HTML
 Tag adalah sebuah penanda awalan dan akhiran dari sebuah elemen di HTML. Tag dibuat dengan kurung siku (<...>), lalu didalamnya berisi nama tag.
+![tag](https://user-images.githubusercontent.com/114325558/193436962-cbfeb703-7940-489d-a323-6b17785e3a67.JPG)
   
 ### 4. HTML Attribute
 Di dalam Opening Tag dapat berisi attribute, yang berfungsi untuk membedakan informasi tambahan kepada sebuah element.
+![atribut](https://user-images.githubusercontent.com/114325558/193437151-c4e75df4-eb34-4605-b3e5-8c1263dfec9d.png)
   
 ### 5. HTML Element
 Element merupakan sebuah komponen dalam halaman web, bisa berupa paragraf, judul, atau gambar.
-  
+![element_html](https://user-images.githubusercontent.com/114325558/193436991-47dee318-ae4d-4ba6-a25a-c75cf1151441.JPG)
+
 Pada umumnya, HTML Element terdiri dari :
  - Opening Tag (tag pembuka),
  - Closing Tag (tag penutup),
@@ -68,11 +72,18 @@ Pada umumnya, HTML Element terdiri dari :
 ### 2. Menyisipkan CSS di HTML 
 Ada tiga cara untuk menyisipkan CSS di HTML yaitu :
 - Inline CSS, yaitu menggunakan attribute untuk menyisipkan kode CSS langsung di dalam HTML element.
+![inline](https://user-images.githubusercontent.com/114325558/193437021-e017fb3b-23ed-4e3c-8984-a966237ba355.JPG)
+
 - Internal CSS, yaitu menggunakan element style untuk menyisipkan kode CSS. Element style tersebut diletakkan didalam element head.
+![internal](https://user-images.githubusercontent.com/114325558/193437023-914447eb-70fd-458d-8e7e-04e3b0f79d85.JPG)
+
 - External CSS, yaitu sebuah file tepisah yang disambungkan dengan file HTML dengan menggunakan element link.
+![external](https://user-images.githubusercontent.com/114325558/193437029-b593c242-9dc5-4981-97fb-c8625df619ae.JPG)
  
 ### 3. Syntax CSS
 CSS Syntax adalah syntax yang digunakan untuk menunjuk atau memilih HTML element mana yang ingin diberi style (dihias). CSS syntax terdiri dari selector, property, dan value.
+
+![css_syntax](https://user-images.githubusercontent.com/114325558/193437015-eefcf770-d482-405c-9ec5-195f1c47df30.png)
  
 ### Day -4
 ### Algoritma & Intro to Javascript
@@ -90,9 +101,14 @@ Algoritma adalah deskripsi berupa step-step yang dibutuhkan untuk menyelesaikan 
 
 ### 3. Jenis-Jenis Algoritma
 ### a. Algoritma Deskriptif
+![algoritma_deskriptif](https://user-images.githubusercontent.com/114325558/193437182-27c5f871-4e59-4fa5-87d8-9f3a1fb442d5.JPG)
+
 ### b. Flowchart
+![flowchart](https://user-images.githubusercontent.com/114325558/193437186-0e49d027-dbc5-4543-837c-18425444aaa1.jpg)
+
 ### c. Pseudocode
-Pseudocode adalah menuliskan algoritma dengan umumnya bahasa inggris sebelum kita implementasikan ke bahasa pemrograman tertentu. 
+Pseudocode adalah menuliskan algoritma dengan umumnya bahasa inggris sebelum kita implementasikan ke bahasa pemrograman tertentu.
+![pseodocode](https://user-images.githubusercontent.com/114325558/193437197-ae43fba4-9090-4cb7-b14c-4419b8f13baf.JPG)
 
 ### B. Intro to Javascript
 ### 1. Pengertian Javascript
@@ -130,18 +146,31 @@ Disemua bahasa pemrograman, veriable adalah container/tempat untuk menyimpan seb
   - Conditional statement akan mengecek kondisi spesifik dan menjalankan perintah berdasarkan kondisi tersebut.
 - Jenis-Jenis Conditional
   - IF Statement
+  ![if](https://user-images.githubusercontent.com/114325558/193437222-37dcd871-f9b5-41e5-9dcd-1ae928a78f1d.JPG)
+  
   - IF-ELSE
+  ![if-else](https://user-images.githubusercontent.com/114325558/193437230-308184d5-5c4f-4150-92a1-a23e40839601.png)
+  
   - IF-ELSE-IF
+  ![if-else-if](https://user-images.githubusercontent.com/114325558/193437235-871c8402-05b0-49ad-acd0-ef9c21567106.png)
+  
   - Switch Case Conditional
+  ![switch](https://user-images.githubusercontent.com/114325558/193437265-e6976834-ea68-4600-a7dd-666a9a2cb26a.png)
   
 ### 2. Looping
   - Apa itu Looping? Looping adalah statement yang mengulang sebuah instruksi hingga kondisi terpenuhi atau jika kondisi stop/berhenti tercapai.
   - Jenis Looping
     - For Loop
+    ![for loop](https://user-images.githubusercontent.com/114325558/193437286-1527d8a1-2114-4014-95dd-16976a13f615.JPG)
+    
       - Inisialisasi: Sebagai inisialisasi awal dari mana mulainya sebuah pengulangan. Kita memberikan nilai awal/default pada parameter ini.
       - Condition: For loop akan terus berjalan selama kondisi ini terpenuhi. Selama kondisi bernilai TRUE.
       - Post-expression (Increment/Decrement): Iterasi statement yang digunakan untuk mengupdate variabel yang menjadi kontrol pada pengulangan.
+     
     - While Loop
+    ![while loop](https://user-images.githubusercontent.com/114325558/193437298-e5adc56c-fe8b-4292-b9f4-b19a5f453a40.JPG)
+    
     - Do While Loop
-      
+    ![do while](https://user-images.githubusercontent.com/114325558/193437301-cfea6080-e93f-4a04-96ac-1d7c788b21ae.JPG)
+
 
