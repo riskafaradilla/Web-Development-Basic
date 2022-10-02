@@ -22,5 +22,29 @@ Function adalah sebuah blok kode dalam sebuah grup untuk menyelesaikan 1 task/1 
 - Jumlah argumen harus sama dengan jumlah parameternya
 - Jadi jika di function penambahan ada 2 parameter nilai saat membuat function. Saat memanggil function kita gunakan 2 buah nilai argumen.
 
+### 3. Membuat Function
+### Function helper
+Kita bisa menggunakan function yang sudah dibuat pada function lain.
+
+### Arrow Function
+Arrow function adalah cara lain menuliskan function. Ini adalah fitur terbaru yang ada pada ES6 (Javascript Version).
+
+### Short Syntax Function
+
 ### Day -2
-### Javascript 
+### Javascript "Data Type Built in Prototype & Method" 
+### Data Type
+### String
+### Number
+### Math
+### Primitive & Non Primitive
+
+### Day -3
+### DOM "Memanipulasi Tampilan Web Menggunakan Bahasa Pemrograman"
+
+### Day -4
+### DOM ""
+
+### Day -5
+### DOM ""
+
