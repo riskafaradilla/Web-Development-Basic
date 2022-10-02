@@ -110,6 +110,17 @@ Tipe data non-primitif dapat menyimpan lebih dari satu nilai pada satu waktu dan
   - ### Array
     Array adalah jenis objek yang dapat digunakan untuk menyimpan beberapa nilai, tanpa properti seperti objek.
     Array memiliki indeks yang dimulai dari nol dengan kata lain elemen atau nilai pertama di dalam array memiliki indeks 0, elemen berikutnya memiliki indeks 1 dan     seterusnya. kita bisa menggunakan indeks untuk memanipulasi nilainya. Nilai pada array literal harus diapit dengan kurung siku [], jika memiliki lebih dari satu     nilai dipisahkan dengan koma.
+    - membuat array
+      
+      <img width="227" alt="array1" src="https://user-images.githubusercontent.com/114325558/193449534-adc8310e-0405-47d9-9697-cbbed0e01942.png">
+      
+    - Mengakses elemen array
+      
+      <img width="238" alt="array2" src="https://user-images.githubusercontent.com/114325558/193449540-87b579bc-337d-4f94-b5bb-75556d867281.png">
+      
+    - Mengubah elemen array
+      
+      <img width="269" alt="array3" src="https://user-images.githubusercontent.com/114325558/193449545-b774088e-c0a0-4246-adb4-64148a5bfaa5.png">
 
 ### Pengertian Method
 Method adalah serangkaian instruksi yang berkaitan dengan sebuah object.
