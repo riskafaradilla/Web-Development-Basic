@@ -200,8 +200,95 @@ DOM adalah singkatan dari Document Object Model. Jadi, ketika halaman website ki
 
     <img width="410" alt="dom7" src="https://user-images.githubusercontent.com/114325558/193452333-9d67dc29-6ac3-41bf-91bd-f287f624ba0d.png">
  
- ### 3. Membuat projek 1
+ ### 3. Latihan Membuat DOM
  
+ - ### File HTML :
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body>
+    <h1 id="title">Hallo</h1>
+
+    <ul class="list">
+      <li class="item">satu</li>
+      <li class="item">dua</li>
+      <li class="item">tiga</li>
+    </ul>
+
+    <!-- Latihan -->
+    <div class="hewan">
+      <ul class="mamalia">
+        <li>kucing</li>
+        <li>kelinci</li>
+        <li>kambing</li>
+      </ul>
+
+      <ul class="reptil">
+        <li>kadal</li>
+        <li>ular</li>
+        <li>buaya</li>
+      </ul>
+
+      <ul class="unggas">
+        <li>ayam</li>
+        <li>bebek</li>
+        <li>burung</li>
+      </ul>
+    </div>
+    
+    <script src="./script.js"></script>
+  </body>
+</html>
+
+ - ### File Javascript
+ 
+  // ===================== traversing ke bawah =====================
+
+  // getElement family........................
+  let title = document.getElementById("title")
+  console.log(title)
+
+  let items = document.getElementsByClassName("item")
+  console.log(items[2]);
+
+  let list = document.getElementsByClassName("list")
+  console.log(list[0])
+  console.log(list[0].children)
+
+  let itemByTag = document.getElementsByTagName("li")
+  console.log(itemByTag[1])
+  console.log(itemByTag.item(1))
+  console.log(itemByTag.length)
+
+  // query selector family...................
+  let listQuery = document.querySelector(".list")
+  console.log(listQuery);
+
+  let itemQueryAll = document.querySelectorAll(".item")
+  console.log(itemQueryAll)
+
+  for (let i = 0; i < itemQueryAll.length; i++) {
+  console.log(itemQueryAll[i])
+  }
+
+  let itemQuery = document.querySelector(".item")
+  console.log(itemQuery);
+
+// ===================== traversing ke atas =======================
+
+console.log(itemQuery.parentElement);
+console.log(itemQuery.closest(".list"));
+
+// ===================== traversing ke samping =====================
+
+console.log(itemQuery.previousElementSiblingc);
+console.log(itemQuery.nextElementSibling);
 
 ### Day -4
 ### DOM ""
