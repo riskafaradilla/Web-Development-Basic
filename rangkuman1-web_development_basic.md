@@ -24,7 +24,7 @@
  - GIt biasanya digunakan oleh para programmer sebagai tempat penyimpanan file pemrograman mereka karena lebih efektif. 
  - GIT sebagai version Tugasnya adalah mencatat setiap perubahan pada File (termasuk code yang kita buat) pada suatu proyek baik dikerjakan secara individu maupun tim.
   
-### 2. Pengertian Gihub
+### 2. Pengertian Github
 Github adalah sebuah website dan layanan berbasis cloud bagi para developer untuk menyimpan dan mengelola kode, serta mendokumentasikan dan mengontrol perubahannya.
   
 ### 3. Perintah Dasar Git
@@ -34,6 +34,7 @@ Github adalah sebuah website dan layanan berbasis cloud bagi para developer untu
  - Git commit : digunakan untuk menyimpan perubahan yang sudah dilakukan, namun tidak ada perubahan yang terjadi pada remote repository.
  - Git push : digunakan dalam mengirimkan perubahan file yang dilakukan setelah di commit ke remote repository.
   
+ &nbsp;
   
  ### Day -2
  ### HTML
@@ -64,6 +65,8 @@ Pada umumnya, HTML Element terdiri dari :
  - Attribute.
  - Content (konten) yang ingin ditampilkan di browser.
   
+ &nbsp;
+ 
 ### Day -3
 ### CSS
 ### 1. Pengertian CSS
@@ -86,6 +89,8 @@ CSS Syntax adalah syntax yang digunakan untuk menunjuk atau memilih HTML element
 
 ![css_syntax](https://user-images.githubusercontent.com/114325558/193437015-eefcf770-d482-405c-9ec5-195f1c47df30.png)
  
+&nbsp;
+
 ### Day -4
 ### Algoritma & Intro to Javascript
 ### A. Algoritma
