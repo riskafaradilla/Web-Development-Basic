@@ -19,15 +19,21 @@ Agar menjadi Global Scope, suatu variabel harus dideklarasikan diluar Blocks.
 Function adalah sebuah blok kode dalam sebuah grup untuk menyelesaikan 1 task/1 fitur.
 contoh function :
 - Membuat function :
-<img width="425" alt="buat-function" src="https://user-images.githubusercontent.com/114325558/193439105-bd15c270-7334-41e6-bd24-a40b3c5b915f.png">
+  <img width="425" alt="buat-function" src="https://user-images.githubusercontent.com/114325558/193439105-bd15c270-7334-41e6-bd24-a40b3c5b915f.png">
 - Memanggil function :
-<img width="427" alt="panggil-function" src="https://user-images.githubusercontent.com/114325558/193439108-31a613c0-01ed-466b-813d-431963c1f594.png">
+  <img width="427" alt="panggil-function" src="https://user-images.githubusercontent.com/114325558/193439108-31a613c0-01ed-466b-813d-431963c1f594.png">
 
 ### 2. Parameter Dan Argumen
 ### Parameter
+
+![function-parameter](https://user-images.githubusercontent.com/114325558/193439461-94cbc520-f7e8-4f97-aa4b-7e4f01ec35a9.png)
+
 - Dengan parameter, function dapat menerima sebuah inputan data dan menggunakannya untuk melakukan task/tugas.
 - Saat membuat function/fitur, kita harus tahu data-data yang dibutuhkan. Misalnya saat membuat function penambahan 2 buah nilai. Data yang dibutuhkan adalah 2 buah nilai tersebut.
 ### Argumen
+
+![function-argumen](https://user-images.githubusercontent.com/114325558/193439467-4ca5c3ea-a603-4602-9b78-377933029804.png)
+
 - Argumen adalah nilai yang digunakan saat memanggil function.
 - Jumlah argumen harus sama dengan jumlah parameternya
 - Jadi jika di function penambahan ada 2 parameter nilai saat membuat function. Saat memanggil function kita gunakan 2 buah nilai argumen.
