@@ -60,7 +60,7 @@ Tipe data adalah jenis data yang dapat disimpan, dimanipulasi, dan digunakan unt
 Tipe data menentukan jenis data yang dimiliki variabel dan tipe operasi, seperti operasi matematika, logika dan sebagainya.
 
 ### Macam-Macam Data Type
-- primitive 
+- ### primitive 
 Data primitif hanya dapat menyimpan satu nilai pada satu waktu dan tidak dapat diubah menggunakan cara yang sama seperti tipe data non-primitif. Tipe data Primitif akan dianggap sama jika nilainya sama.
   - ### String
     String pada Javascript adalah tipe data yang berhubungan dengan karakter. 
@@ -87,7 +87,7 @@ Data primitif hanya dapat menyimpan satu nilai pada satu waktu dan tidak dapat d
     
     <img width="257" alt="null" src="https://user-images.githubusercontent.com/114325558/193448721-bb5b0223-185f-4f04-8ac4-6eb6a6ffd082.png">
     
-- Non Primitive
+- ### Non Primitive
 Tipe data non-primitif dapat menyimpan lebih dari satu nilai pada satu waktu dan dapat diubah. Tipe data non-primitif akan dianggap berbeda meskipun nilainya sama dan dalam urutan yang sama.
   - ### Object
     object adalah tipe data yang kompleks yang memungkinkan kita menyimpan kumpulan nilai dengan tipe data yang berbeda. Objek berisi properti yang didefinisikan       sebagai pasangan kunci dan nilai (key dan value).
@@ -124,7 +124,38 @@ Tipe data non-primitif dapat menyimpan lebih dari satu nilai pada satu waktu dan
 
 ### Pengertian Method
 Method adalah serangkaian instruksi yang berkaitan dengan sebuah object.
-- Math
+- ### Math
+  - Math.abs(), fungsinya yaitu mengembalikan nilai absolut dari sebuah angka.
+    
+    <img width="225" alt="abs" src="https://user-images.githubusercontent.com/114325558/193450444-e5ee4488-84ba-4d9f-97d4-37d79c7f80c8.png">
+    
+  - Math.ceil(), fungsinya yaitu digunakan untuk pembulatan ke atas.
+    
+    <img width="227" alt="ceil" src="https://user-images.githubusercontent.com/114325558/193450438-167a9613-3db6-49f1-928e-35896a990b8c.png">
+    
+  - Math.floor(), fungsinya untuk pembulatan ke bawah.
+    
+    <img width="226" alt="floor" src="https://user-images.githubusercontent.com/114325558/193450434-ce4b7f13-34a6-4e07-9082-b98a57e7b396.png">
+    
+  - Math.round(), untuk pembulatan kebawah jika kurang dari 0,5 dan pembulatan ke atas jika lebih dari 0,5 (termasuk 0,5).
+    
+    <img width="164" alt="round" src="https://user-images.githubusercontent.com/114325558/193450975-70b5dcf5-47da-4ce8-87b4-e420e504d068.png"> 
+    
+  - Math.max(), digunakan untuk mencari nilai paling besar dari angka-angka yang diinput ke dalam argumen.
+    
+    <img width="305" alt="max" src="https://user-images.githubusercontent.com/114325558/193450617-4d4b3a90-90cd-41db-80b8-5297b39abdb8.png">
+    
+  - Math.min(), digunakan untuk mencari nilai paling kecil dari angka-angka yang diinput ke dalam argumennya.
+    
+    <img width="293" alt="min" src="https://user-images.githubusercontent.com/114325558/193450612-350bc254-f099-4261-8fc1-57336263455c.png">
+    
+  - Math.pow(), digunakan untuk pemangkatan suatu angka.
+  
+    <img width="265" alt="pow" src="https://user-images.githubusercontent.com/114325558/193450822-d92cf94e-3e04-4c40-8693-8c4e69868f03.png">
+    
+  - Math.sqrt(), digunakan untuk melakukan akar kuadrat.
+    
+    <img width="185" alt="sqrt" src="https://user-images.githubusercontent.com/114325558/193450809-dbc299dd-3e3b-4dd6-9d67-a7a750963b26.png">
 
 ### Day -3
 ### DOM "Memanipulasi Tampilan Web Menggunakan Bahasa Pemrograman"
