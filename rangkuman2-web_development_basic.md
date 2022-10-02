@@ -196,6 +196,7 @@ DOM adalah singkatan dari Document Object Model. Jadi, ketika halaman website ki
     <img width="413" alt="dom6" src="https://user-images.githubusercontent.com/114325558/193452327-70186f86-043b-499f-a810-9271afd53346.png">
     
   - EventListener - Form Submission
+
     <img width="410" alt="dom7" src="https://user-images.githubusercontent.com/114325558/193452333-9d67dc29-6ac3-41bf-91bd-f287f624ba0d.png">
 
 ### Day -4
