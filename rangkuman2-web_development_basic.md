@@ -89,9 +89,25 @@ Data primitif hanya dapat menyimpan satu nilai pada satu waktu dan tidak dapat d
     
 - Non Primitive
 Tipe data non-primitif dapat menyimpan lebih dari satu nilai pada satu waktu dan dapat diubah. Tipe data non-primitif akan dianggap berbeda meskipun nilainya sama dan dalam urutan yang sama.
-  - Object
+  - ### Object
     object adalah tipe data yang kompleks yang memungkinkan kita menyimpan kumpulan nilai dengan tipe data yang berbeda. Objek berisi properti yang didefinisikan       sebagai pasangan kunci dan nilai (key dan value).
-  - Array
+    - membuat objek
+    
+      <img width="191" alt="objek-1" src="https://user-images.githubusercontent.com/114325558/193449132-b1d1032c-e5e5-4225-9353-5c2bdfa47b2a.png">
+
+    - mengakses value tertentu pada objek
+      
+      <img width="355" alt="objek1" src="https://user-images.githubusercontent.com/114325558/193449140-eccdc467-602b-409d-a1f1-c42b51930370.png">
+      
+    - mengubah nilai key pada objek
+
+      <img width="251" alt="objek2" src="https://user-images.githubusercontent.com/114325558/193449143-34ef1dba-cf26-495b-979d-e03b1e35c89f.png">
+      
+    - mengubah key dan value baru
+      
+      <img width="523" alt="objek3" src="https://user-images.githubusercontent.com/114325558/193449149-6bff156a-73e0-42fb-96c8-6355653c6511.png">
+      
+  - ### Array
     Array adalah jenis objek yang dapat digunakan untuk menyimpan beberapa nilai, tanpa properti seperti objek.
     Array memiliki indeks yang dimulai dari nol dengan kata lain elemen atau nilai pertama di dalam array memiliki indeks 0, elemen berikutnya memiliki indeks 1 dan     seterusnya. kita bisa menggunakan indeks untuk memanipulasi nilainya. Nilai pada array literal harus diapit dengan kurung siku [], jika memiliki lebih dari satu     nilai dipisahkan dengan koma.
 
