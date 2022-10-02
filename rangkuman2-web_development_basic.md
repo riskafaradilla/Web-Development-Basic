@@ -44,12 +44,18 @@ contoh function :
 
 ### 3. Membuat Function
 ### a. Function helper
-Kita bisa menggunakan function yang sudah dibuat pada function lain.
+Kita bisa menggunakan function yang sudah dibuat pada function lain. Contoh :
+
+<img width="370" alt="function-helper" src="https://user-images.githubusercontent.com/114325558/193439692-0b38d78f-5285-4c98-b673-faeb340da5cf.png">
 
 ### b. Arrow Function
 Arrow function adalah cara lain menuliskan function. Ini adalah fitur terbaru yang ada pada ES6 (Javascript Version).
 
+<img width="359" alt="arrow function" src="https://user-images.githubusercontent.com/114325558/193439702-4110a95c-fae1-49d6-89d3-7c4c07ef7ef5.png">
+
 ### c. Short Syntax Function
+
+
 
 ### Day -2
 ### Javascript "Data Type Built in Prototype & Method" 
