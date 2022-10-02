@@ -159,6 +159,7 @@ Method adalah serangkaian instruksi yang berkaitan dengan sebuah object. Pada ma
 
 ### Day -3
 ### DOM "Memanipulasi Tampilan Web Menggunakan Bahasa Pemrograman"
+### 1. Pengertian DOM
 DOM adalah singkatan dari Document Object Model. Jadi, ketika halaman website kita diload, browser kita akan membuat Document Object Model dari halaman website kita.Dengan adanya DOM ini, JavaScript diberi akses untuk membuat HTML menjadi dinamis, seperti:
 - Mengubah element HTML pada halaman website.
 - Mengubah attribute HTML pada halaman website.
@@ -168,7 +169,7 @@ DOM adalah singkatan dari Document Object Model. Jadi, ketika halaman website ki
 - Berinteraksi dengan semua HTML event di website.
 - Penting untuk diingat, “DOM bukan bagian dari JavaScript, melainkan browser (Web API)”
 
-### Mempraktikan DOM
+### 2. Mempraktikan DOM
 - Mencari/mengakses element HTML
   
   <img width="458" alt="dom1" src="https://user-images.githubusercontent.com/114325558/193452283-5084494d-b7d6-4575-a772-311b60b2f1f3.png">
@@ -198,6 +199,9 @@ DOM adalah singkatan dari Document Object Model. Jadi, ketika halaman website ki
   - EventListener - Form Submission
 
     <img width="410" alt="dom7" src="https://user-images.githubusercontent.com/114325558/193452333-9d67dc29-6ac3-41bf-91bd-f287f624ba0d.png">
+ 
+ ### 3. Membuat projek 1
+ 
 
 ### Day -4
 ### DOM ""
