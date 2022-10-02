@@ -7,8 +7,12 @@ Scope dalam Javascript adalah konsep yang digunakan untuk membatasi pengaksesan 
 - Global scope
 Global scope berarti variabel yang kita buat dapat diakses dimanapun dalam suatu file.
 
+<img width="215" alt="global-scope" src="https://user-images.githubusercontent.com/114325558/193438801-dac21fe7-e334-4781-8650-69c429ad20f8.png">
+
 - Local Scope
 Agar menjadi Global Scope, suatu variabel harus dideklarasikan diluar Blocks.
+
+<img width="440" alt="local-scope" src="https://user-images.githubusercontent.com/114325558/193438796-2f8e8ef6-c337-4be5-83f8-f110f97137cb.png">
 
 ### B. Function
 ### 1. Pengertian Function
