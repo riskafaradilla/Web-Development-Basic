@@ -200,7 +200,7 @@ DOM adalah singkatan dari Document Object Model. Jadi, ketika halaman website ki
 
     <img width="410" alt="dom7" src="https://user-images.githubusercontent.com/114325558/193452333-9d67dc29-6ac3-41bf-91bd-f287f624ba0d.png">
  
- ### 3. Latihan Membuat DOM
+ ### 3. Latihan Membuat DOM (DOM Intro)
  
  - ### File HTML :
 
@@ -212,9 +212,52 @@ DOM adalah singkatan dari Document Object Model. Jadi, ketika halaman website ki
     <img width="579" alt="js1" src="https://user-images.githubusercontent.com/114325558/193454612-8a06d3d8-5a7b-47cd-8b5d-74f36a8e9d0b.png">
     <img width="579" alt="js2" src="https://user-images.githubusercontent.com/114325558/193454626-06ff3714-ca86-4afa-a155-f78945e9cae1.png">
 
-### Day -4
-### DOM ""
+## Day -4
+### DOM
+Pada Pertemuan ini masih membahas tentang DOM dengan menggunakan materi yang sama pada hari sebelumnya (day-3).
 
-### Day -5
-### DOM ""
+### Latihan Membuat DOM (DOM Manipulation)
 
+- File HTML
+
+  <img width="578" alt="html-dom_manipulation1" src="https://user-images.githubusercontent.com/114325558/193454978-57ca96ae-8d0f-4634-b098-3f51a6ca53ba.png">
+  <img width="577" alt="html-dom_manipulation2" src="https://user-images.githubusercontent.com/114325558/193454988-91bd61fe-5014-4f34-93d9-77cfa6a55e46.png">
+
+- File Javascript
+  
+  <img width="579" alt="javascript-dom_manipulation1" src="https://user-images.githubusercontent.com/114325558/193455038-f3423b04-0c9a-4e22-9983-421256ea9ee9.png">
+  <img width="578" alt="javascript-dom_manipulation2" src="https://user-images.githubusercontent.com/114325558/193455082-54307711-10ab-4ded-82b5-2af7cb38f63a.png">
+  
+## Day -5
+### DOM
+Pada Pertemuan ini masih membahas tentang DOM dengan menggunakan materi yang sama pada hari sebelumnya (day -3).
+
+### Latihan Membuat DOM (DOM Event)
+### Latihan 1 (incrrement dan decrement)
+- File HTML
+
+  <img width="580" alt="html-pert5-1" src="https://user-images.githubusercontent.com/114325558/193455444-44225c07-28e7-4f18-ab2e-9ac37d626b97.png">
+  
+- File Javascript
+
+  <img width="578" alt="javascript-pert5-1" src="https://user-images.githubusercontent.com/114325558/193455449-4869960e-6cb6-4021-9dbb-3433b9603828.png">
+  
+### Latihan 2 (Klik)
+- File HTML
+  
+  <img width="578" alt="html-pert5-2" src="https://user-images.githubusercontent.com/114325558/193455648-1ddae6da-4ae1-4a5b-bbf2-818e3e084665.png">
+  
+- File JAvascript
+  
+  <img width="580" alt="javascript-pert5-2" src="https://user-images.githubusercontent.com/114325558/193455655-0e5a0d71-909a-499b-a708-88a8ec404c68.png">
+  
+### Latihan 3 (Login)
+- file HTML
+
+  <img width="578" alt="html-pert5-3-1" src="https://user-images.githubusercontent.com/114325558/193455839-49e698d3-e38a-455e-a0c5-57cd2b3dcbdd.png">
+  <img width="577" alt="html-pert5-3-2" src="https://user-images.githubusercontent.com/114325558/193455850-410a122b-ae5f-489c-99fa-4f72cf09ec31.png">
+  
+- File Javascript
+  
+  <img width="578" alt="javascript-pert5-3-1" src="https://user-images.githubusercontent.com/114325558/193456099-43782f3d-3806-47a2-b103-e8f69e50d2d8.png">
+  <img width="580" alt="javascript-pert5-3-2" src="https://user-images.githubusercontent.com/114325558/193456105-8e602ddc-54bf-46c7-bad6-ee01426f21f2.png">
