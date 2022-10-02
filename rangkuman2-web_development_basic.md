@@ -213,7 +213,7 @@ DOM adalah singkatan dari Document Object Model. Jadi, ketika halaman website ki
     <img width="579" alt="js2" src="https://user-images.githubusercontent.com/114325558/193454626-06ff3714-ca86-4afa-a155-f78945e9cae1.png">
 
 ## Day -4
-### DOM
+### DOM (Document Object Model)
 Pada Pertemuan ini masih membahas tentang DOM dengan menggunakan materi yang sama pada hari sebelumnya (day-3).
 
 ### Latihan Membuat DOM (DOM Manipulation)
@@ -229,7 +229,7 @@ Pada Pertemuan ini masih membahas tentang DOM dengan menggunakan materi yang sam
   <img width="578" alt="javascript-dom_manipulation2" src="https://user-images.githubusercontent.com/114325558/193455082-54307711-10ab-4ded-82b5-2af7cb38f63a.png">
   
 ## Day -5
-### DOM
+### DOM (Document Object Model)
 Pada Pertemuan ini masih membahas tentang DOM dengan menggunakan materi yang sama pada hari sebelumnya (day -3).
 
 ### Latihan Membuat DOM (DOM Event)
