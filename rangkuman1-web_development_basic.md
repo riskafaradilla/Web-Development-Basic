@@ -1,6 +1,6 @@
-### Rangkuman Materi Minggu Ke-1
+## Rangkuman Materi Minggu Ke-1
 ### Day -1
-### Unix Command Line dan Git&Github
+### Unix Command Line dan Git & Github
 ### A. Unix Command Line
 - command Line Interface yitu jenis shell yang berbasis teks.
 - Shell yaitu program yang digunakan untuk berkomunikasi atau memerintah sistem.
@@ -17,62 +17,62 @@
   - mv : command untuk memindahkan files atau directory. Bisa digunakan untuk rename.
   - rm : command untuk menghapus file atau directory.
   
-  ### B. Git & Github
-  ### 1. Pengertian Git 
-  - GIT adalah Tools untuk programmer.
-  - GIT adalah aplikasi yang dapat melacak setiap peruahan yang terjadi pada suatu folder atau file.
-  - GIt biasanya digunakan oleh para programmer sebagai tempat penyimpanan file pemrograman mereka karena lebih efektif. 
-  - GIT sebagai version Tugasnya adalah mencatat setiap perubahan pada File (termasuk code yang kita buat) pada suatu proyek baik dikerjakan secara individu maupun tim.
+### B. Git & Github
+### 1. Pengertian Git 
+ - GIT adalah Tools untuk programmer.
+ - GIT adalah aplikasi yang dapat melacak setiap peruahan yang terjadi pada suatu folder atau file.
+ - GIt biasanya digunakan oleh para programmer sebagai tempat penyimpanan file pemrograman mereka karena lebih efektif. 
+ - GIT sebagai version Tugasnya adalah mencatat setiap perubahan pada File (termasuk code yang kita buat) pada suatu proyek baik dikerjakan secara individu maupun tim.
   
-  ### 2. Pengertian Gihub
-  Github adalah sebuah website dan layanan berbasis cloud bagi para developer untuk menyimpan dan mengelola kode, serta mendokumentasikan dan mengontrol perubahannya.
+### 2. Pengertian Gihub
+Github adalah sebuah website dan layanan berbasis cloud bagi para developer untuk menyimpan dan mengelola kode, serta mendokumentasikan dan mengontrol perubahannya.
   
-  ### 3. Perintah Dasar Git
-  - Git init : digunakan untuk membuat repository di file lokal.
-  - Git status : digunakan untuk mengetahui sebuah status dari sebuah repository lokal.
-  - Git add : adalah perintah yang digunakan untuk menambahkan file baru di repository yang dipilih.
-  - Git commit : digunakan untuk menyimpan perubahan yang sudah dilakukan, namun tidak ada perubahan yang terjadi pada remote repository.
-  - Git push : digunakan dalam mengirimkan perubahan file yang dilakukan setelah di commit ke remote repository.
+### 3. Perintah Dasar Git
+ - Git init : digunakan untuk membuat repository di file lokal.
+ - Git status : digunakan untuk mengetahui sebuah status dari sebuah repository lokal.
+ - Git add : adalah perintah yang digunakan untuk menambahkan file baru di repository yang dipilih.
+ - Git commit : digunakan untuk menyimpan perubahan yang sudah dilakukan, namun tidak ada perubahan yang terjadi pada remote repository.
+ - Git push : digunakan dalam mengirimkan perubahan file yang dilakukan setelah di commit ke remote repository.
   
   
-  ## Day -2
-  ### HTML
-  ### 1. Pengertian HTML
+ ### Day -2
+ ### HTML
+ ### 1. Pengertian HTML
   - HTML adalah singkatan dari Hypertext Markup Language.
   - HTML adalah bahasa komputer yang digunakan untuk membuat kerangka atau struktur untu Web pages (halaman website) di internet.
   - HTML bukanlah sebuah bahasa pemrograman, artinya HTML tidak bisa dinamis mengolah data.
   
-  ### 2. Kerangka HTML
+### 2. Kerangka HTML
   
-  ### 3. Tag HTML
-  Tag adalah sebuah penanda awalan dan akhiran dari sebuah elemen di HTML. Tag dibuat dengan kurung siku (<...>), lalu didalamnya berisi nama tag.
+### 3. Tag HTML
+Tag adalah sebuah penanda awalan dan akhiran dari sebuah elemen di HTML. Tag dibuat dengan kurung siku (<...>), lalu didalamnya berisi nama tag.
   
-  ### 4. HTML Attribute
-  Di dalam Opening Tag dapat berisi attribute, yang berfungsi untuk membedakan informasi tambahan kepada sebuah element.
+### 4. HTML Attribute
+Di dalam Opening Tag dapat berisi attribute, yang berfungsi untuk membedakan informasi tambahan kepada sebuah element.
   
-  ### HTML Element
-  Element merupakan sebuah komponen dalam halaman web, bisa berupa paragraf, judul, atau gambar.
+### 5. HTML Element
+Element merupakan sebuah komponen dalam halaman web, bisa berupa paragraf, judul, atau gambar.
   
-  Pada umumnya, HTML Element terdiri dari :
-  - Opening Tag (tag pembuka),
-  - Closing Tag (tag penutup),
-  - Attribute.
-  - Content (konten) yang ingin ditampilkan di browser.
+Pada umumnya, HTML Element terdiri dari :
+ - Opening Tag (tag pembuka),
+ - Closing Tag (tag penutup),
+ - Attribute.
+ - Content (konten) yang ingin ditampilkan di browser.
   
-  ### Day -3
-  ### CSS
-  ### 1. Pengertian CSS
-  - CSS digunakan untuk mendesain halaman website.
-  - Dengan CSS, kita bisa mengubah warna, menggunakan font custom, editing text format, mengatur tata letak, dan lainnya.
+### Day -3
+### CSS
+### 1. Pengertian CSS
+ - CSS digunakan untuk mendesain halaman website.
+ - Dengan CSS, kita bisa mengubah warna, menggunakan font custom, editing text format, mengatur tata letak, dan lainnya.
  
- ### Menyisipkan CSS di HTML 
- Ada tiga cara untuk menyisipkan CSS di HTML yaitu :
- - Inline CSS, yaitu menggunakan attribute untuk menyisipkan kode CSS langsung di dalam HTML element.
- - Internal CSS, yaitu menggunakan element style untuk menyisipkan kode CSS. Element style tersebut diletakkan didalam element head.
- - External CSS, yaitu sebuah file tepisah yang disambungkan dengan file HTML dengan menggunakan element link.
+### 2. Menyisipkan CSS di HTML 
+Ada tiga cara untuk menyisipkan CSS di HTML yaitu :
+- Inline CSS, yaitu menggunakan attribute untuk menyisipkan kode CSS langsung di dalam HTML element.
+- Internal CSS, yaitu menggunakan element style untuk menyisipkan kode CSS. Element style tersebut diletakkan didalam element head.
+- External CSS, yaitu sebuah file tepisah yang disambungkan dengan file HTML dengan menggunakan element link.
  
- ### Syntax CSS
- CSS Syntax adalah syntax yang digunakan untuk menunjuk atau memilih HTML element mana yang ingin diberi style (dihias). CSS syntax terdiri dari selector, property, dan value.
+### 3. Syntax CSS
+CSS Syntax adalah syntax yang digunakan untuk menunjuk atau memilih HTML element mana yang ingin diberi style (dihias). CSS syntax terdiri dari selector, property, dan value.
  
 ### Day -4
 ### Algoritma & Intro to Javascript
@@ -98,7 +98,7 @@ Pseudocode adalah menuliskan algoritma dengan umumnya bahasa inggris sebelum kit
 ### 1. Pengertian Javascript
 Javascript adalah bahasa pemrograman yang sangat powerful yang digunakan untuk logic pada sebuah website. Javascript juga dapat membuat website menjadi interaktif dan dinamis.
 
-2. Type Data 
+### 2. Type Data 
 Tipe data adalah klasifikasi yang kita berikan untuk berbagai macam data yang digunakan dalam programming. Ada 6 tipe data fundamental pada Javascript yaitu :
 - number
 - string
@@ -134,7 +134,7 @@ Disemua bahasa pemrograman, veriable adalah container/tempat untuk menyimpan seb
   - IF-ELSE-IF
   - Switch Case Conditional
   
-  ### 2. Looping
+### 2. Looping
   - Apa itu Looping? Looping adalah statement yang mengulang sebuah instruksi hingga kondisi terpenuhi atau jika kondisi stop/berhenti tercapai.
   - Jenis Looping
     - For Loop
