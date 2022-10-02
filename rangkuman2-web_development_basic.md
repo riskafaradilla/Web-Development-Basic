@@ -55,7 +55,7 @@ Arrow function adalah cara lain menuliskan function. Ini adalah fitur terbaru ya
 
 ## Day -2
 ### Javascript "Data Type Built in Prototype & Method" 
-### Pengertian Data Type
+### 1. Pengertian Data Type
 Tipe data adalah jenis data yang dapat disimpan, dimanipulasi, dan digunakan untuk memberi tahu komputer bagaimana menfasirkan nilai atau datanya.
 Tipe data menentukan jenis data yang dimiliki variabel dan tipe operasi, seperti operasi matematika, logika dan sebagainya.
 
@@ -122,7 +122,7 @@ Tipe data non-primitif dapat menyimpan lebih dari satu nilai pada satu waktu dan
       
       <img width="269" alt="array3" src="https://user-images.githubusercontent.com/114325558/193449545-b774088e-c0a0-4246-adb4-64148a5bfaa5.png">
 
-### Pengertian Method
+### 2. Pengertian Method
 Method adalah serangkaian instruksi yang berkaitan dengan sebuah object. Pada materi ini banyak membahas method pada aritmatika.
 - ### Math
   - Math.abs(), fungsinya yaitu mengembalikan nilai absolut dari sebuah angka.
@@ -157,7 +157,7 @@ Method adalah serangkaian instruksi yang berkaitan dengan sebuah object. Pada ma
     
     <img width="185" alt="sqrt" src="https://user-images.githubusercontent.com/114325558/193450809-dbc299dd-3e3b-4dd6-9d67-a7a750963b26.png">
 
-### Day -3
+## Day -3
 ### DOM "Memanipulasi Tampilan Web Menggunakan Bahasa Pemrograman"
 ### 1. Pengertian DOM
 DOM adalah singkatan dari Document Object Model. Jadi, ketika halaman website kita diload, browser kita akan membuat Document Object Model dari halaman website kita.Dengan adanya DOM ini, JavaScript diberi akses untuk membuat HTML menjadi dinamis, seperti:
