@@ -17,6 +17,12 @@ Agar menjadi Global Scope, suatu variabel harus dideklarasikan diluar Blocks.
 ### B. Function
 ### 1. Pengertian Function
 Function adalah sebuah blok kode dalam sebuah grup untuk menyelesaikan 1 task/1 fitur.
+contoh function :
+- Membuat function :
+<img width="425" alt="buat-function" src="https://user-images.githubusercontent.com/114325558/193439105-bd15c270-7334-41e6-bd24-a40b3c5b915f.png">
+- Memanggil function :
+<img width="427" alt="panggil-function" src="https://user-images.githubusercontent.com/114325558/193439108-31a613c0-01ed-466b-813d-431963c1f594.png">
+
 ### 2. Parameter Dan Argumen
 ### Parameter
 - Dengan parameter, function dapat menerima sebuah inputan data dan menggunakannya untuk melakukan task/tugas.
