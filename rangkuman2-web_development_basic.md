@@ -247,7 +247,7 @@ Pada Pertemuan ini masih membahas tentang DOM dengan menggunakan materi yang sam
   
   <img width="578" alt="html-pert5-2" src="https://user-images.githubusercontent.com/114325558/193455648-1ddae6da-4ae1-4a5b-bbf2-818e3e084665.png">
   
-- File JAvascript
+- File Javascript
   
   <img width="580" alt="javascript-pert5-2" src="https://user-images.githubusercontent.com/114325558/193455655-0e5a0d71-909a-499b-a708-88a8ec404c68.png">
   
