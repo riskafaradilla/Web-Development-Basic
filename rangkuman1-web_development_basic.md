@@ -36,26 +36,26 @@ Github adalah sebuah website dan layanan berbasis cloud bagi para developer untu
   
  &nbsp;
   
-  ### Day -2
-  ### HTML
-  ### 1. Pengertian HTML
+   ### Day -2
+   ### HTML
+   ### 1. Pengertian HTML
   - HTML adalah singkatan dari Hypertext Markup Language.
   - HTML adalah bahasa komputer yang digunakan untuk membuat kerangka atau struktur untu Web pages (halaman website) di internet.
   - HTML bukanlah sebuah bahasa pemrograman, artinya HTML tidak bisa dinamis mengolah data.
   
-  ### 2. Kerangka HTML
+   ### 2. Kerangka HTML
  ![kerangka-html](https://user-images.githubusercontent.com/114325558/193437112-c8e91ac8-29c8-4b2b-a072-e8403e510d87.JPG)
 
-  ### 3. Tag HTML
- Tag adalah sebuah penanda awalan dan akhiran dari sebuah elemen di HTML. Tag dibuat dengan kurung siku (<...>), lalu didalamnya berisi nama tag.
+   ### 3. Tag HTML
+  Tag adalah sebuah penanda awalan dan akhiran dari sebuah elemen di HTML. Tag dibuat dengan kurung siku (<...>), lalu didalamnya berisi nama tag.
 
-![tag](https://user-images.githubusercontent.com/114325558/193436962-cbfeb703-7940-489d-a323-6b17785e3a67.JPG)
+ ![tag](https://user-images.githubusercontent.com/114325558/193436962-cbfeb703-7940-489d-a323-6b17785e3a67.JPG)
   
- ### 4. HTML Attribute
+  ### 4. HTML Attribute
  Di dalam Opening Tag dapat berisi attribute, yang berfungsi untuk membedakan informasi tambahan kepada sebuah element.
 ![atribut](https://user-images.githubusercontent.com/114325558/193437151-c4e75df4-eb34-4605-b3e5-8c1263dfec9d.png)
   
- ### 5. HTML Element
+  ### 5. HTML Element
  Element merupakan sebuah komponen dalam halaman web, bisa berupa paragraf, judul, atau gambar.
  ![element_html](https://user-images.githubusercontent.com/114325558/193436991-47dee318-ae4d-4ba6-a25a-c75cf1151441.JPG)
 
