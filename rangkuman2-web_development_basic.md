@@ -1,5 +1,5 @@
 ## Rangkuman Minggu Ke-2
-## Day -1
+## Day -6
 ### Javascript : "Scope & Function" 
 ### A. Scope
 ### 1. Pengertian Scope
@@ -53,7 +53,7 @@ Arrow function adalah cara lain menuliskan function. Ini adalah fitur terbaru ya
 
 <img width="359" alt="arrow function" src="https://user-images.githubusercontent.com/114325558/193439702-4110a95c-fae1-49d6-89d3-7c4c07ef7ef5.png">
 
-## Day -2
+## Day -7
 ### Javascript "Data Type Built in Prototype & Method" 
 ### 1. Pengertian Data Type
 Tipe data adalah jenis data yang dapat disimpan, dimanipulasi, dan digunakan untuk memberi tahu komputer bagaimana menfasirkan nilai atau datanya.
@@ -157,7 +157,7 @@ Method adalah serangkaian instruksi yang berkaitan dengan sebuah object. Pada ma
     
     <img width="185" alt="sqrt" src="https://user-images.githubusercontent.com/114325558/193450809-dbc299dd-3e3b-4dd6-9d67-a7a750963b26.png">
 
-## Day -3
+## Day -8
 ### DOM "Memanipulasi Tampilan Web Menggunakan Bahasa Pemrograman"
 ### 1. Pengertian DOM
 DOM adalah singkatan dari Document Object Model. Jadi, ketika halaman website kita diload, browser kita akan membuat Document Object Model dari halaman website kita.Dengan adanya DOM ini, JavaScript diberi akses untuk membuat HTML menjadi dinamis, seperti:
@@ -212,9 +212,9 @@ DOM adalah singkatan dari Document Object Model. Jadi, ketika halaman website ki
     <img width="579" alt="js1" src="https://user-images.githubusercontent.com/114325558/193454612-8a06d3d8-5a7b-47cd-8b5d-74f36a8e9d0b.png">
     <img width="579" alt="js2" src="https://user-images.githubusercontent.com/114325558/193454626-06ff3714-ca86-4afa-a155-f78945e9cae1.png">
 
-## Day -4
+## Day -9
 ### DOM (Document Object Model)
-Pada Pertemuan ini masih membahas tentang DOM dengan menggunakan materi yang sama pada hari sebelumnya (day-3).
+Pada Pertemuan ini masih membahas tentang DOM dengan menggunakan materi yang sama pada hari sebelumnya (day-8).
 
 ### Latihan Membuat DOM (DOM Manipulation)
 
@@ -228,9 +228,9 @@ Pada Pertemuan ini masih membahas tentang DOM dengan menggunakan materi yang sam
   <img width="579" alt="javascript-dom_manipulation1" src="https://user-images.githubusercontent.com/114325558/193455038-f3423b04-0c9a-4e22-9983-421256ea9ee9.png">
   <img width="578" alt="javascript-dom_manipulation2" src="https://user-images.githubusercontent.com/114325558/193455082-54307711-10ab-4ded-82b5-2af7cb38f63a.png">
   
-## Day -5
+## Day -10
 ### DOM (Document Object Model)
-Pada Pertemuan ini masih membahas tentang DOM dengan menggunakan materi yang sama pada hari sebelumnya (day -3).
+Pada Pertemuan ini masih membahas tentang DOM dengan menggunakan materi yang sama pada hari sebelumnya (day -8).
 
 ### Latihan Membuat DOM (DOM Event)
 ### Latihan 1 (incrrement dan decrement)
