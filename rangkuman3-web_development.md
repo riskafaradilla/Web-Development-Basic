@@ -35,8 +35,52 @@ contoh :
 
 - looping for multidimensional array
 
-## day 12
+## Day 12
 ### JavaScript: Object
-### 
+### 1. Apa itu Object ?
+pada programming, object adalah sebuah tipe data pada variabel yang menyimpan properti dan fungsi (method).Properti adalah data lengkap dari sebuah object.
+Method adalah action dari sebuah object. Apa saja yang dapat dilakukan dari suatu object.
+### 2. Membuat dan Mengakses Object
+Kita juga bisa menggunakan bracket notation saat memanggil properti dari sebuah object.
+### 3. Mengupdate Objek
+Kita dapat melakukan update pada variabel dengan tipe data Object.
+- Object dapat mengupdate value dari key yang sudah tersedia
+- Object dapat menambahkan key dan value baru
+
+### 4. Menghapus Object Property
+Kita dapat menghapus properti dari object menggunakan delete operator.
+
+### 5. Method
+Method adalah value yang dimasukkan pada property berupa function.
+
+### 6. Looping Object
+### 7. Array of Object
+Kita dapat menggunakan array of object untuk data yang lebih dari satu.
+
+## Day 13
+### Javascript: Recursive
+### 1. Pengertian Recursive
+Recursive adalah function yang memanggil dirinya sendiri sampai kondisi tertentu. Recursive kebanyakan digunakan untuk case matematika, fisika, kimia, dan yang berhubungan dengan calculation.
+
+### 2. Ciri-Ciri Recursive
+- Fungsi rekursif selalu memiliki kondisi yang menyatakan kapan fungsi tersebut berhenti. Kondisi ini harus dapat dibuktikan akan tercapai, karena jika tidak tercapai maka kita tidak dapat membuktikan bahwa fungsi akan berhenti, yang berarti algoritma kita tidak benar.
+- Fungsi rekursif selalu memanggil dirinya sendiri sambil mengurangi atau memecahkan data masukan setiap panggilannya. Hal ini penting diingat, karena tujuan utama dari rekursif ialah memecahkan masalah dengan mengurangi masalah tersebut menjadi masalah-masalah kecil.
+
+### 3. Contoh kasus rekursif
+
+## Day 14
+
+## Day 15
+### Web Storage
+### 1. Pengertian Web Storage
+Web storage adalah salah satu Web API yang dapat menyimpan data secara lokal pada sisi client. Berbeda dengan objek atau array, data yang disimpan pada objek atau array JavaScript bersifat sementara, dan akan hilang jika terjadi reload atau pergantian URL pada browser.
+
+### 2. 
+
+
+
+
+
+
 
 
