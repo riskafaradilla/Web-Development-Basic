@@ -69,13 +69,52 @@ Recursive adalah function yang memanggil dirinya sendiri sampai kondisi tertentu
 ### 3. Contoh kasus rekursif
 
 ## Day 14
+### Javascript Asynchronous : "Introducing & Promise"
+### 1. Apa itu Asyncronous ?
+Asynchronous hasil eksekusi atau output tidak selalu berdasarkan urutan kode, tetapi berdasarkan waktu proses. Eksekusi dengan asynchronous tidak akan membloking atau menunggu suatu perintah sampai selesai. Daripada menunggu, asynchronous akan mengeksekusi perintah selanjutnya.
+
+### 2. Asyncronous Promise
+Promise bisa dikatakan sebagai object yang menyimpan hasil dari sebuah operasi asynchronous baik itu hasil yang diinginkan (resolved value) atau alasan kenapa operasi itu gagal (failure reason).
+
+Sebuah Promise berada di salah satu diantara 3 kondisi(state):
+- pending, operasi sedang berlangsung
+- fulfilled, operasi selesai dan berhasil
+- rejected, operasi selesai namun gagal
+
 
 ## Day 15
 ### Web Storage
 ### 1. Pengertian Web Storage
 Web storage adalah salah satu Web API yang dapat menyimpan data secara lokal pada sisi client. Berbeda dengan objek atau array, data yang disimpan pada objek atau array JavaScript bersifat sementara, dan akan hilang jika terjadi reload atau pergantian URL pada browser.
 
-### 2. 
+### 2. Tipe Web Storage
+- Local Storage
+  Local storage memiliki karakteristik sebagai berikut:
+  - Menyimpan data tanpa tanggal kadaluarsa.
+  - Data tidak akan dihapus ketika web browser ditutup dan akan tersedia seterusnya selama kita tidak menghapus data local storage pada web browser.
+  - Dapat menyimpan data hingga 5MB.
+  - Hanya dapat menyimpan data string.
+
+Untuk menyimpan data pada local storage, kita menggunakan method setItem() yang membutuhkan 2 parameter. Parameter pertama adalah key yang ingin kita simpan dan parameter kedua adalah data (value) dari key yang akan disimpan.
+Untuk mengambil data yang telah tersimpan pada local storage, kita dapat menggunakan method getItem() yang membutuhkan 1 parameter. Parameter tersebut adalah key dari data yang kita inginkan.
+Untuk menghapus data yang telah tersimpan pada local storage, kita dapat menggunakan method removeItem() yang membutuhkan 1 parameter. Parameter tersebut adalah key dari data yang ingin kita hapus.
+
+- Session Storage
+Session storage mempunyai beberapa karakteristik, yaitu:
+  - Data yang disimpan pada session storage akan terus tersimpan selama browser terbuka dan tidak hilang jika laman di-reload.
+  - Membuka banyak tab/window dengan URL yang sama, akan menciptakan session storage yang berbeda di masing-masing tab/window.
+  - Menutup tab/window akan mengakhiri session dan menghapus data yang tersimpan di session storage pada tab/window tersebut.
+  - Data yang tersimpan dalam session storage harus berbentuk string.
+  - Hanya dapat menyimpan data sebanyak 5MB.
+
+Sama dengan local storage, sintaks untuk menyimpan data pada session storage adalah sebagai berikut:
+Sama seperti local storage, cara mendapatkan data dari session storage juga menggunakan getItem(), seperti berikut ini:
+Syntax untuk menghapus data dari session storage ada 2, yaitu:
+
+### 3. Membuat Projek dengan Mempraktikkan Web Storage
+
+  
+  
 
 
 
