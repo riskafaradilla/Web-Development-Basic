@@ -65,6 +65,8 @@ contoh :
 
   ![looping-multi-array](https://user-images.githubusercontent.com/114325558/194848243-f9b52e7d-d266-475f-aec3-b585f650e782.JPG)
 
+&nbsp;
+
 ## Day 12
 ### JavaScript: Object
 ### 1. Apa itu Object ?
@@ -119,6 +121,8 @@ Recursive adalah function yang memanggil dirinya sendiri sampai kondisi tertentu
 
   ![contoh-recursive](https://user-images.githubusercontent.com/114325558/194849743-2883ff4d-ec56-4cc3-b1cf-aa0b6a42bda2.JPG)
 
+&nbsp;
+
 ## Day 14
 ### Javascript Asynchronous : "Introducing & Promise"
 ### 1. Apa itu Asyncronous ?
@@ -132,6 +136,7 @@ Sebuah Promise berada di salah satu diantara 3 kondisi(state):
 - fulfilled, operasi selesai dan berhasil
 - rejected, operasi selesai namun gagal
 
+&nbsp;
 
 ## Day 15
 ### Web Storage
