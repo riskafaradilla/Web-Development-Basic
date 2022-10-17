@@ -57,12 +57,42 @@ Baik dari ukuran huruf, user interface, gambar dan tata letak akan menyesuaikan 
 ### 2. Membuat Responsive Web Design
 Terdapat berbagai cara untuk membuat website kita menjadi responsive diantaranya :
   ### a. Add Viewport In HTML
-  ### b. Use Max-width Element
-  ### c. Media Query
-  ### d. Breakpoint
   
+  ![viewport](https://user-images.githubusercontent.com/114325558/196091195-eb4f1f98-52a5-4001-aa27-a8ebb585cf40.JPG)
+  
+  ### b. Use Max-width Element
+  
+  ![max-width](https://user-images.githubusercontent.com/114325558/196091405-01be374c-0847-45a0-97e9-29938d50cd1f.JPG)
+  
+  ### c. Media Query
+  
+  ![mediaquery](https://user-images.githubusercontent.com/114325558/196091622-52ff0cb8-d7e6-436a-aaa2-ad511dcfcbc2.JPG)
+    
 ### B. Boostrap 5
 ### 1. Pengertian Boostrap
+Bootstrap adalah framework HTML, CSS, dan JavaScript yang berfungsi untuk mendesain website responsive dengan cepat dan mudah. Framework open source ini diciptakan pada tahun 2011 oleh Mark Otto dan Jacob Thornton dari Twitter. Itulah kenapa dulunya Bootstrap dinamakan Twitter Blueprint. Kemudahan yang ditawarkan oleh Bootstrap adalah Anda tak perlu coding komponen website dari nol. Framework ini tersusun dari kumpulan file CSS dan JavaScript berbentuk class yang tinggal pakai.
+
+### 2. Contoh Penggunaan Boostrap
+### a. container
+
+![containers](https://user-images.githubusercontent.com/114325558/196092425-e37c5446-c5a2-487a-a4f9-5aee9c8ce9ed.JPG)
+
+### b. Grid
+
+  ![grid](https://user-images.githubusercontent.com/114325558/196092254-98c77b45-08e0-4ce8-8e65-c6055844061c.JPG)
+  
+### c. Column
+
+![column](https://user-images.githubusercontent.com/114325558/196092644-2d426bac-df39-4f1f-85f6-7aebd76e85e2.JPG)
+
+### d. Navbar
+
+![nav](https://user-images.githubusercontent.com/114325558/196093286-1af45f64-23c5-4aab-ab63-65cfd3c132f8.JPG)
+
+### e. Card
+
+![card](https://user-images.githubusercontent.com/114325558/196093593-c519e9be-a6de-4f71-843e-6eacb9e82c96.JPG)
+
 
 
 
