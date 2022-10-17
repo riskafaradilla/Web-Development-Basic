@@ -2,7 +2,16 @@
 ### Day 16
 ### Javascript Asynchronous- "Fetch & Async Await"
 ### A. Fetch
+Fetch merupakan salah satu Web API yang menghasilkan Promise.
+contoh code :
+
+  ![fetch](https://user-images.githubusercontent.com/114325558/196095732-2d42dcec-1ee3-4d1a-aa34-3490045ea357.JPG)
+
 ### B. Async Await
+Async await adalah fitur yang hadir sejak ES2017. Fitur ini mempermudah kita dalam menangani proses asynchronous. Async Await merupakan sebuah syntax khusus yang digunakan untuk menangani Promise agar penulisan code lebih efisien dan rapih.
+contoh code :
+
+  ![await](https://user-images.githubusercontent.com/114325558/196095632-a109bd8c-d204-43bb-a7a7-4c121bbebc3a.JPG)
 
 ### Day 17
 ### Git & Git Hub Lanjutan- "Git Branch & Git Merge"
