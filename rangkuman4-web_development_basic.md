@@ -36,8 +36,7 @@ kita tidak boleh berkolaborasi dalam project di satu branch yang sama.
 ### B. Git Merge
 Setelah membuat branch baru, lalu lakukan commit. Saatnya menyatukan pekerjaan ke master file/branch utama yaitu branch MASTER.
 Untuk menyatukan branch cabang fitur yang telah kita kembangkan. Gunakan perintah seperti berikut ini:
-
-    ![merge2](https://user-images.githubusercontent.com/114325558/196090582-320e3e15-b2df-4dee-9a21-6d1003b06db2.JPG)
+![merge2](https://user-images.githubusercontent.com/114325558/196090582-320e3e15-b2df-4dee-9a21-6d1003b06db2.JPG)
     
   - Kita harus checkout dahulu ke branch master
 
