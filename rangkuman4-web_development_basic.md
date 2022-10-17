@@ -11,6 +11,12 @@ Git Branch merupakan fitur yang wajib digunakan jika berkolaborasi dengan develo
 kita tidak boleh berkolaborasi dalam project di satu branch yang sama.
   - Untuk membuat branch, gunakan perintah berikut ini,
     
+    ![branch1](https://user-images.githubusercontent.com/114325558/196090060-f86d69d2-f439-4c98-97e8-df1bf40ceede.JPG)
+    
+    contoh :
+    
+    ![branch2](https://user-images.githubusercontent.com/114325558/196090077-c278c60f-0829-470e-b243-6246e7c36b07.JPG)
+    
   - Untuk melihat list branch menggunakan perintah :
   
     ![listbranch](https://user-images.githubusercontent.com/114325558/196089481-bd1293f4-acfd-4487-84b1-b5bf852984f8.JPG)
@@ -30,8 +36,16 @@ kita tidak boleh berkolaborasi dalam project di satu branch yang sama.
 ### B. Git Merge
 Setelah membuat branch baru, lalu lakukan commit. Saatnya menyatukan pekerjaan ke master file/branch utama yaitu branch MASTER.
 Untuk menyatukan branch cabang fitur yang telah kita kembangkan. Gunakan perintah seperti berikut ini:
+
+    ![merge2](https://user-images.githubusercontent.com/114325558/196090582-320e3e15-b2df-4dee-9a21-6d1003b06db2.JPG)
+    
   - Kita harus checkout dahulu ke branch master
+
+    ![checkout](https://user-images.githubusercontent.com/114325558/196090348-e60ef052-b481-4014-a342-bf7179fe347a.JPG)
+    
   - Lalu lakukan merge
+
+    ![merge1](https://user-images.githubusercontent.com/114325558/196090428-9c92552a-b054-45a6-b601-09fc0c38dbd0.JPG)
   
 ### Day 18
 ### Responsive Web Design & Boostrap 5
