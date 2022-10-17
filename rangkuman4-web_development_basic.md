@@ -12,6 +12,8 @@ Async await adalah fitur yang hadir sejak ES2017. Fitur ini mempermudah kita dal
 contoh code :
 
   ![await](https://user-images.githubusercontent.com/114325558/196095632-a109bd8c-d204-43bb-a7a7-4c121bbebc3a.JPG)
+  
+&nbsp;
 
 ### Day 17
 ### Git & Git Hub Lanjutan- "Git Branch & Git Merge"
@@ -54,6 +56,8 @@ Untuk menyatukan branch cabang fitur yang telah kita kembangkan. Gunakan perinta
   - Lalu lakukan merge
 
     ![merge1](https://user-images.githubusercontent.com/114325558/196090428-9c92552a-b054-45a6-b601-09fc0c38dbd0.JPG)
+    
+&nbsp;
   
 ### Day 18
 ### Responsive Web Design & Boostrap 5
@@ -81,7 +85,7 @@ Terdapat berbagai cara untuk membuat website kita menjadi responsive diantaranya
 ### 1. Pengertian Boostrap
 Bootstrap adalah framework HTML, CSS, dan JavaScript yang berfungsi untuk mendesain website responsive dengan cepat dan mudah. Framework open source ini diciptakan pada tahun 2011 oleh Mark Otto dan Jacob Thornton dari Twitter. Itulah kenapa dulunya Bootstrap dinamakan Twitter Blueprint. Kemudahan yang ditawarkan oleh Bootstrap adalah Anda tak perlu coding komponen website dari nol. Framework ini tersusun dari kumpulan file CSS dan JavaScript berbentuk class yang tinggal pakai.
 
-### 2. Contoh Penggunaan Boostrap
+### 2. Contoh Boostrap
 ### a. container
 
    ![containers](https://user-images.githubusercontent.com/114325558/196092425-e37c5446-c5a2-487a-a4f9-5aee9c8ce9ed.JPG)
