@@ -75,11 +75,11 @@ Bootstrap adalah framework HTML, CSS, dan JavaScript yang berfungsi untuk mendes
 ### 2. Contoh Penggunaan Boostrap
 ### a. container
 
-    ![containers](https://user-images.githubusercontent.com/114325558/196092425-e37c5446-c5a2-487a-a4f9-5aee9c8ce9ed.JPG)
+   ![containers](https://user-images.githubusercontent.com/114325558/196092425-e37c5446-c5a2-487a-a4f9-5aee9c8ce9ed.JPG)
 
 ### b. Grid
 
-    ![grid](https://user-images.githubusercontent.com/114325558/196092254-98c77b45-08e0-4ce8-8e65-c6055844061c.JPG)
+   ![grid](https://user-images.githubusercontent.com/114325558/196092254-98c77b45-08e0-4ce8-8e65-c6055844061c.JPG)
   
 ### c. Column
 
@@ -87,11 +87,11 @@ Bootstrap adalah framework HTML, CSS, dan JavaScript yang berfungsi untuk mendes
 
 ### d. Navbar
 
-    ![nav](https://user-images.githubusercontent.com/114325558/196093286-1af45f64-23c5-4aab-ab63-65cfd3c132f8.JPG)
+   ![nav](https://user-images.githubusercontent.com/114325558/196093286-1af45f64-23c5-4aab-ab63-65cfd3c132f8.JPG)
 
 ### e. Card
 
-    ![card](https://user-images.githubusercontent.com/114325558/196093593-c519e9be-a6de-4f71-843e-6eacb9e82c96.JPG)
+   ![card](https://user-images.githubusercontent.com/114325558/196093593-c519e9be-a6de-4f71-843e-6eacb9e82c96.JPG)
 
 
 
