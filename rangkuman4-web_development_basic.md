@@ -1,5 +1,5 @@
 ## Rangkuman Materi Minggu ke-4
-### Day 16
+## Day 16
 ### Javascript Asynchronous- "Fetch & Async Await"
 ### A. Fetch
 Fetch merupakan salah satu Web API yang menghasilkan Promise.
@@ -15,7 +15,7 @@ contoh code :
   
 &nbsp;
 
-### Day 17
+## Day 17
 ### Git & Git Hub Lanjutan- "Git Branch & Git Merge"
 ### A. Git Branch
 Git Branch merupakan fitur yang wajib digunakan jika berkolaborasi dengan developer atau dalam tim. Untuk menghindari conflict code yang dikembangkan 
@@ -44,7 +44,7 @@ kita tidak boleh berkolaborasi dalam project di satu branch yang sama.
     
     ![deletebranch2](https://user-images.githubusercontent.com/114325558/196089659-25652154-5a03-410c-9f77-f7e653088786.JPG)
     
-### B. Git Merge
+## B. Git Merge
 Setelah membuat branch baru, lalu lakukan commit. Saatnya menyatukan pekerjaan ke master file/branch utama yaitu branch MASTER.
 Untuk menyatukan branch cabang fitur yang telah kita kembangkan. Gunakan perintah seperti berikut ini:
 ![merge2](https://user-images.githubusercontent.com/114325558/196090582-320e3e15-b2df-4dee-9a21-6d1003b06db2.JPG)
@@ -59,7 +59,7 @@ Untuk menyatukan branch cabang fitur yang telah kita kembangkan. Gunakan perinta
     
 &nbsp;
   
-### Day 18
+## Day 18
 ### Responsive Web Design & Boostrap 5
 ### A. Responsive Web Design
 ### 1. Pengertian Responsive Web Design
